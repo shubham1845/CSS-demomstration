@@ -1,0 +1,98 @@
+.service {
+  display: flex;
+  height: 1045px;
+  width: 100%;
+  margin-top: 0;
+}
+.serviceWrapper {
+  /* height: 25%; */
+  width: 90%;
+  top: 30px;
+  left: 60px;
+  position: relative;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 40px;
+}
+.serviceWrapper h2 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+  z-index: 1;
+}
+.serviceWrapper h1 {
+  text-align: center;
+  font-weight: 800;
+  font-size: 35px;
+}
+.paragraph p {
+  line-height: 20px;
+  font-size: 14px;
+  color: black;
+  text-align: center;
+  /* z-index: 1; */
+}
+
+.doodle {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  z-index: -1;
+}
+/* .serviceCards {
+  width: 100%;
+} */
+.box {
+  height: 300px;
+  width: 400px;
+  margin: 20px 20px 20px 20px;
+  /* background-color: black; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #ffffff;
+}
+.row {
+  display: flex;
+}
+.icon {
+  height: 100px;
+  padding-top: 20px;
+  font-size: larger;
+  color: black;
+}
+
+.imgClass {
+  top: 0;
+  padding-top: 0px;
+  /* background-color: blanchedalmond; */
+}
+.img {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  /* background-attachment: fixed; */
+}
+.secondRapper {
+  /* background-color: blanchedalmond; */
+  height: 1150px;
+}
+.rowSlogan {
+  display: flex;
+}
+.slogans {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  height: 600px;
+  width: 340px;
+  margin-left: 60px;
+}
+.slogans p {
+  line-height: 40px;
+  font-weight: 400;
+  font-size: large;
+}
+.info {
+  margin-top: 270px;
+}
+.info h3,
+h4 {
+  line-height: 10px;
+}

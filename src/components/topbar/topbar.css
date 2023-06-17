@@ -1,0 +1,22 @@
+.headerContainer {
+  height: 8vh;
+  display: flex;
+  background-color: #0a0a51;
+}
+.headerWrapper {
+  /* background-color: bisque; */
+  padding: 200;
+}
+.headerList {
+  padding: 7px;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  color: white;
+}
+.headerListItem {
+  /* display: flex; */
+  align-items: center;
+  margin-bottom: 2px;
+  margin-left: 60px;
+}

@@ -1,0 +1,25 @@
+.whyWrapper {
+  padding-top: 30px;
+  color: #fafafc;
+  font-size: 30px;
+  font-weight: 500;
+}
+.why {
+  background-color: #0a0a51;
+}
+.paragraph {
+  padding-bottom: 25px;
+}
+.paragraph p {
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: left;
+  color: #fafafc;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 35px;
+}
+.ourClient {
+  height: 420px;
+  background-color: #fafafc;
+}

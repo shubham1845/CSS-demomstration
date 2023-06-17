@@ -1,0 +1,47 @@
+.footerWrapper {
+  background-color: #3f3836;
+}
+.footerWrapper hr {
+  border: 0.01rem solid #9aabb7;
+  margin: 0px 70px 0px 70px;
+}
+.row {
+  /* background-color: brown; */
+  margin: 0px 70px 0px 70px;
+}
+.column {
+  /* background-color: blue; */
+  /* margin: 15px; */
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 260px;
+  width: 400px;
+  text-align: left;
+  line-height: 35px;
+  color: #9aabb7;
+}
+
+.copyright {
+  text-align: left;
+  color: #9aabb7;
+  padding: 10px 0px 10px 70px;
+}
+.quicklinks {
+  line-height: 25px;
+}
+.quicklinks a {
+  text-decoration: none;
+  color: #9aabb7;
+  /* display: inline; */
+}
+.column p {
+  /* align-content: center; */
+  align-items: center;
+}
+.mailIcon {
+  /* display: inline; */
+  color: aqua;
+  align-items: center;
+  padding-right: 10px;
+  /* padding-top: 10px; */
+}

@@ -1,0 +1,40 @@
+.benith {
+  height: 600px;
+  position: relative;
+}
+.mainImg {
+  height: 100%;
+}
+.benithImg {
+  height: 100%;
+  width: 100%;
+
+  /* position: relative; */
+}
+.animatedCircle {
+  position: absolute;
+  top: -80px;
+  right: 0px;
+
+  /* z-index: 0; */
+}
+
+.circleImg {
+  /* background: transparent; */
+
+  height: 150px;
+  height: 150px;
+}
+.qotes {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+}
+.qotes h3 {
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  color: #ffff;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  line-height: 30px;
+}

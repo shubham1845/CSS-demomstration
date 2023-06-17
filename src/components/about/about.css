@@ -1,0 +1,36 @@
+.about {
+  display: flex;
+  height: 350px;
+  width: 100%;
+  /* background-color: rgb(27, 27, 53); */
+}
+.leftContainer {
+  flex: 7;
+  background-color: #0a0a51;
+}
+.aboutContainer {
+  font-size: 18px;
+  color: #ffffff;
+}
+.detailText h2 {
+  text-align: left;
+  padding-left: 50px;
+}
+.detailText p {
+  padding-left: 50px;
+  padding-right: 10px;
+  line-height: 35px;
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+}
+
+.rightContainer {
+  flex: 5;
+  /* background-color: brown; */
+}
+.dotCircle {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+}
